@@ -1,0 +1,42 @@
+QUERYPATH = "queries/fees.sql"
+KNACK_VIEW = "view_54"
+KNACK_OBJECT = "object_14"
+KNACK_IS_DELETED_FIELD = "field_336"
+
+FIELDS = [
+    {"amanda": "accountbillfeersn", "knack": "field_285", "primary_key": True},
+    {"amanda": "feecode", "knack": "field_286"},
+    {"amanda": "feedesc", "knack": "field_287"},
+    {"amanda": "feeamount", "knack": "field_288"},
+    {"amanda": "folderrsn", "knack": "field_289"},
+    {"amanda": "foldername", "knack": "field_290"},
+    {"amanda": "folderdescription", "knack": "field_291"},
+    {"amanda": "indate", "knack": "field_292"},
+    {"amanda": "foldertype", "knack": "field_293"},
+    {"amanda": "subdesc", "knack": "field_294"},
+    {"amanda": "workcode", "knack": "field_295"},
+    {"amanda": "workdesc", "knack": "field_296"},
+    {"amanda": "work_order", "knack": "field_297"},
+    {"amanda": "subproject_id", "knack": "field_298"},
+    {"amanda": "peoplersn", "knack": "field_299"},
+    {"amanda": "namefirst", "knack": "field_300"},
+    {"amanda": "namelast", "knack": "field_301"},
+    {"amanda": "organizationname", "knack": "field_302"},
+    {"amanda": "emailaddress", "knack": "field_303"},
+    {"amanda": "glaccountnumber", "knack": "field_304"},
+    {"amanda": "billnumber", "knack": "field_305"},
+    {"amanda": "billamount", "knack": "field_306"},
+    {"amanda": "paymentamount", "knack": "field_307"},
+    {"amanda": "paymenttype", "knack": "field_308"},
+    {"amanda": "paymentnumber", "knack": "field_309"},
+    {"amanda": "paymentdate", "knack": "field_310"},
+    {"amanda": "fund", "knack": "field_311"},
+    {"amanda": "dept", "knack": "field_312"},
+    {"amanda": "unit", "knack": "field_313"},
+    {"amanda": "object", "knack": "field_314"},
+    {"amanda": "locationcode", "knack": "field_315"},
+    {"amanda": "feecomment", "knack": "field_339"},
+    {"amanda": "cip_project_manager", "knack": "field_341"},
+    {"amanda": "cip_id_number", "knack": "field_337"},
+    {"amanda": "stampuser", "knack": "field_316"},
+]
